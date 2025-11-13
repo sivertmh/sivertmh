@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sivertmh 
-- 👀 I’m interested in coding and stuff
-- ⚡ Fun fact: I like this
+-
 
 <!---
 sivertmh/sivertmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
